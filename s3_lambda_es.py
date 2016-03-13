@@ -23,9 +23,11 @@ import boto3
 
 ########################################################################################################################
 # variables to be changed
+
 # no https nor trailing slash in this one, just the full hostname of your elasticsearch endpoint
 host = 'search-example-1234567890qwerty.so-meaz-1.es.amazonaws.com'
 region = 'us-east-1'
+
 # access keys used in the url signing, for some reason the lamba role ones didnt work for me
 access_key = 'access key id'
 secret_key = 'secret key'
