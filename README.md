@@ -33,7 +33,7 @@ Assuming some basic knowledge of the services involved.
 
 ## Notes
 
-I'll have a more involved post on [my blog](https://www.fernandobattistella.com.br) soon, this readme is more of a bunch of quick instructions to get it going.
+I have a more detailed post on [my blog](https://www.fernandobattistella.com.br/log_processing/2016/03/13/Cloudtrail-S3-Lambda-Elasticsearch.html).
 
 ## Issues
 
