@@ -1,3 +1,5 @@
+# THIS CODE IS NOT BEING MAINTAINED
+
 # Cloudtrail Logs -> S3 -> Lambda -> AWS Elasticsearch Service
 
 Automagically put your cloudtrail logs into Amazon Elasticsearch Service! and get a nice Kibana interface for it ;)
